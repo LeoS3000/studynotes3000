@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Notes :3
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+To get stared, choose something 
+# [[Einführung in die KI]]
+
