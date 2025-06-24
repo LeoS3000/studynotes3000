@@ -1,0 +1,7 @@
+- rather than finding a sepearation, like the perceptron,
+- svm aim to find the optimal separating hyperplane between two classes 
+	- one, thats as far away, as possible from points of both classes
+	- widest possible corridor
+- a Decision [[Hyperplane]] is being found
+- Corridor Hyperplanes define the margin to closest data points
+- Goal: make [[Margin]] as wide as possible 

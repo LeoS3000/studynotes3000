@@ -1,0 +1,5 @@
+- extract attributes or features (e.g., color, size, shape) with machine readable values (e.g., continuous, discrete) from real world ‘objects’
+- Attributes describe characteristic traits of the objects so that different objects have different attribute values
+- objets with the same values are indistinguishable from one another. 
+- Attributes for an object are usually collected in a vector $x ∈ R^D$, so that $D$ is the number of attributes and the value of the $d-th$ attribute is encoded in dimension $x_d$ of $x = (x1, . . . , xD)^T$
+- Since there are many objects, we address them by numbers, e.g., for N objects, we have attribute vectors $x1, . . . , xN$, with $x_n = (x_{n1}, . . . , x_{nD})^T$

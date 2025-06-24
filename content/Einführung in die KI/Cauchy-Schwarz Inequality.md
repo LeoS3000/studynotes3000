@@ -1,0 +1,3 @@
+- For any two vectors $u$ and $v$
+-  $\|u\|\|v\| \ge |u^T v|$
+- an upper bound on the absolute value of the inner product between two vectors  in terms of the product of the vector norms
