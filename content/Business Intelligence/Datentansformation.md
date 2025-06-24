@@ -1,0 +1,6 @@
+- Daten in eine für das Mining geeignete Form bringen
+    - **Beispiele:** 
+	    - Normalisierung (Skala 0-1), 
+	    - Diskretisierung (Altersgruppen), 
+	    - Feature Engineering (Perzentile) 
+	    - Nutzung von Hierarchien (PLZ zu Bundesland).

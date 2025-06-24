@@ -1,0 +1,2 @@
+- Grundidee: Ein internes “Testset“, auf dem wir Optimierungsentscheidungen treffen (= Validierungsset) und ein „echtes“ Testset, auf dem die finale Metrik berechnet wird
+- Nachteil: Trainingsdatensatz wird verkleinert

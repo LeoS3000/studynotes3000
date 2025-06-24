@@ -1,0 +1,3 @@
+- Top-down- mit einem Bottom-up-Ansatz zu verschmelzen sodass sie innerhalb der Organisation funktioniert
+-  ermöglicht es Managern, eigene Metriken zu definieren
+- sorgt für einheitliche Priorität und Konsistenz in der Organisation durch eine Strategie zur Ausrichtung des Unternehmens

@@ -1,0 +1,4 @@
+- Genauigkeit/ Modellperformance auf ungesehenen Daten (Fokus in Veranstaltung) 
+- Interpretierbarkeit des Modells 
+- Anpassbarkeit 
+- Erforderliche Ressourcen für Training und Anwendung

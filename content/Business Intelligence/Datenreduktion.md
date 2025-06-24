@@ -1,0 +1,6 @@
+- **Dimensionalitätsreduktion**: 
+	- Verringerung der Dimensionalität durch Rausfiltern der unwichtigeren Daten bspw. via Principal Component Analysis 
+- **Parametrisierte Repräsentation:** 
+	- Nutzung von mathematischen/ statistischen Methoden zur alternativen Repräsentation der Daten bspw. nur die Parameter einer linearen Regression speichern 
+- **Datenkompression**:
+	- Kompression der Daten zu Reduktion der Speicherkapazität (lossy vs. lossless)

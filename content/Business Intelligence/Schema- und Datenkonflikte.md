@@ -1,0 +1,16 @@
+- Namenskonflikt 
+	- Synonymen 
+	- Homonymen 
+- Struktureller Konflikt 
+	- Unterschiedliche Hierarchien und Abstraktionsniveaus 
+	- Identitätskonflikte (unterschiedliche IDs) 
+- Repräsentationskonflikt 
+	- Unterschiedliche Kodierung und Datentypen 
+	- Unterschiedliche Definitionen 
+	- Skalierungskonflikte 
+- Datenkonflikt 
+	- Falsche/ fehlende/ imputierte Werte 
+	- Veraltete Werte 
+	- Nicht-eindeutige Schlüssel 
+	- Mehrfache Primärschlüsselnutzung
+	- Duplikate

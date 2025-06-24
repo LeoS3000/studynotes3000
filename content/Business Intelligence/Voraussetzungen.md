@@ -1,0 +1,8 @@
+- **Governance:** 
+	- Klare Rollen, Verantwortlichkeiten und Rechenschaftspflicht.
+- **Systeme & Prozesse:** 
+	- Richtlinien, Prozesse und Infrastruktur.
+- **Menschen und Fähigkeiten:** 
+	- Sicherstellung der benötigten Kenntnisse.
+- **Datensicherheit:** 
+	- Genehmigte Verwendung der Daten.

@@ -1,0 +1,9 @@
+- Rechtliche Voraussetzungen (E-Piracy, DSG VO)
+- Schutz des geistigen Eigentums
+- Selektion der “wertvollen” Daten/ Preprocessing
+- Datenaktualisierung
+- Effiziente Speicherung (Komprimierung, Zugriffsgeschwindigkeit)
+- sichere Speicherung
+- Verfügbarkeit
+- Kommunikation/ Visualisierung
+- Talente

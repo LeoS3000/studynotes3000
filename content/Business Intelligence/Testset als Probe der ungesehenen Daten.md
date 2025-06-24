@@ -1,0 +1,5 @@
+- Grundidee: „Ungesehenes“ Testset ermöglicht Bewertung der Generalisierbarkeit 
+- Problem Overfitting und fehlende Generalisierbarkeit 
+	- Kein oder kein zufällig gewähltes Testset 
+	- Modell wird auf Testset optimiert 
+	- Target Leakage: Features nutzen, die für ungesehene Daten nicht zur Verfügung stehen; Trainingsdaten (z.B. Doppelte, Gruppen, …)

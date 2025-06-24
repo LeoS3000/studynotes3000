@@ -1,0 +1,6 @@
+- Vielzahl von Algorithmen – keiner davon ist unabhängig von den gegebenen Daten immer der beste
+- Instabilität durch Rauschen und Ausreißer und die Wahl der Hyperparameter wie $k$ haben hohen Einfluss auf Ergebnisse
+- Mathematisch optimale Cluster sind unter Umständen nicht die Nützlichsten. „Nützlichkeit“ ist schwierig messbar
+- Fragen: 
+	- wie geht man mit neuen Daten/ Kunden um 
+	- wie oft die Cluster aktualisieren

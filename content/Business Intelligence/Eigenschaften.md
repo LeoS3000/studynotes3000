@@ -1,0 +1,11 @@
+- Hard vs. Fuzzy
+	- Ist der Output die Zuweisung zu einem Cluster oder eine Wahrscheinlichkeit für alle Cluster?
+- Complete vs. Partial
+	- Werden Outliers ausgelassen oder werden sie einem Cluster zugewiesen?
+- Partitonal vs. Hierarchical
+	- Werden die Punkte gleichzeitig (global) oder schrittweise (lokal) aufgeteilt?
+- Discriminative vs. Generative
+	- Gibt es eine Entscheidungsfunktion (diskriminative) oder eine Wahrscheinlichkeitsverteilung zu der Cluster?
+- Apriori vs. Post-hoc
+	- Wird die Anzahl der Cluster k automatisch festgelegt?
+**--> Welcher Algorithmus am besten ist, kommt auf die Daten an**

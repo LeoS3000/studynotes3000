@@ -1,0 +1,24 @@
+- Unterstützung von datenbasierten Entscheidungen 
+- Leistung messen und verfolgen
+- Benchmarking mit anderen Unternehmen(steilen)
+- Probleme frühzeitig erkennen
+- Effizienter arbeiten 
+- Umsatz und Rentabilität steigern
+- Wettbewerbsvorteile erlangen
+- IT-Effizienz 
+	- Kosteneinsparungen, z. B. durch Einsparungen bei Software- oder Hardware-Lizenzen und deren Nutzung 
+	- Effizienzgewinne bei Dienstleistungen, Beratung und Schulung 
+	- Schnellere IT-Reaktionszeit, verbesserte Arbeitsverteilung und Produktivität, Mitarbeitereinsatz
+	- Wiederverwendung von Ressourcen und Methoden
+- Geschäftliche Effizienz
+	- Schnellere Zyklen und verbesserte Zeiten
+	- Bessere Ressourcenzuweisung und höhere Produktivität 
+	- Zeitersparnis durch Automatisierung
+- Geschäftseffektivität
+	- Höherer Kundenwert 
+	- Verbesserter Produktmix (Margen) 
+	- Bessere Konversionsrate in der Vertriebspipeline 
+	- Verbesserte Kundenbindung 
+	- Höhere Produktionsausbeute 
+	- Bessere Auftragsabwicklung 
+	- Niedrigere Produktionskosten 

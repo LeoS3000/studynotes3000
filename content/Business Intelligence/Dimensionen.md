@@ -1,0 +1,8 @@
+- **Glaubwürdigkeit**: 
+	- Korrektheit, Konsistenz und Zuverlässigkeit.
+- **Nützlichkeit**: 
+	- Vollständigkeit, Genauigkeit, Zeitnähe, Redundanzfreiheit und Relevanz.
+- **Interpretierbarkeit**: 
+	- Einheitlichkeit, Eindeutigkeit und Verständlichkeit.
+- **Schlüsselintegrität**: 
+	- Schlüssel-Eindeutigkeit, referentielle Integrität hinzugefügt.

@@ -1,0 +1,12 @@
+
+- Eine Zeitreihe ist **stationär**, wenn sie keine systematischen Änderungen im Mittelwert oder in der Varianz aufweist.
+- **Eigenschaften stationärer Zeitreihen:**
+    - Kein langfristiger Trend.
+    - Keine starke Saisonalität.
+    - Konstante Varianz und Mittelwert.
+- **Warum**
+    - Viele statistische Modelle (z. B. ARIMA) funktionieren nur mit stationären Daten.
+    - Stationäre Zeitreihen ermöglichen eine einfachere Modellierung der Autokorrelation.
+- **Methoden zur Stationarisierung:**
+    - **Trendentfernung:** Mittels Differencing oder Regression.
+    - **Saisonalitätsentfernung:** Berechnung saisonaler Mittelwerte und deren Subtraktion.

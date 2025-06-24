@@ -1,0 +1,6 @@
+- Validierung der Sinnhaftigkeit.
+- Markierung, Vorhersage/Inferenz und Imputation fehlender Werte.
+- Finden und Berichtigung fehlerhafter Daten.
+- Überprüfung und Anpassung der Datentypen.
+- Prüfung auf Redundanzen.
+- Behandlung von Ausreißern.

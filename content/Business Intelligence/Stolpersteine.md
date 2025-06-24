@@ -1,0 +1,8 @@
+- Richtung 
+	- Uneinheitliche Visionen verhindern Entwicklung einer Strategie 
+- Infrastruktur 
+	- Historisch gewachsene Systeme sind unpassend und schwierig zu managen 
+- Kommunikation 
+	- Kluft zwischen Business und IT/ BI erschwert Arbeit und Abstimmung 
+- Prioritäten 
+	- Mangelnde Quantifizierung von Nutzen und Kosten führt zu unklaren/ falschen Prioritäten

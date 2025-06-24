@@ -1,0 +1,7 @@
+- **Ziel:** Entfernung des langfristigen Trends aus der Zeitreihe.
+- **Methoden:**
+	- **Saisonales Mittel:** Berechnung eines saisonalen Durchschnitts und Subtraktion von den Originalwerten.
+    - **Differencing:** Bildung von Differenzen zwischen aufeinanderfolgenden Werten (z. B. $x_t - x_{t-1}$).
+- **Trendbereinigte Zeitreihe:**
+    - Berechnung der trendbereinigten Werte: $\hat{x}=x_t - T_t$
+    - Berechnung der trend- und saisonbereinigten Werte: $\hat{\hat{x}}=\hat{x}_t - S_t.$

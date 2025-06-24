@@ -1,0 +1,6 @@
+- Data-driven Decision Making
+	- Entscheidungen auf der Grundlage der Analyse von Daten statt reiner Intuition 
+- Data Mining/ Data Science: 
+	- Extraktion von Wissen aus Daten mit Hilfe von quantitativen Methoden 
+- Data Engineering: 
+	- Methoden der Erhebung, Speicherung und Extraktion/ Vorverarbeitung von Daten

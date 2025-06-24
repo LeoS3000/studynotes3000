@@ -1,0 +1,11 @@
+- Unternehmensführung 
+	- Qualität der bereitgestellten Informationen 
+	- Ganzheitliche Unternehmensbetrachtung 
+	- Niedrige Kosten-Nutzen-Relation 
+- Unternehmensbereiche 
+	- Unterstützung operativer Aufgaben 
+	- Benutzerfreundlichkeit 
+- Informationstechnologie 
+	 - Geringe Anzahl Anwendungen 
+	 - Konsolidierung der Datenhaltung 
+	 - Standardisierung der Prozesse

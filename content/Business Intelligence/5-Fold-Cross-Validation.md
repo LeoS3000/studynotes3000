@@ -1,0 +1,4 @@
+- Datensatz split in 5 gleich große Teile
+- Modell wird mit 4 von 5 trainiert und 1 getestet
+- wird 5 mal wiederholt für alle Teile
+- Score ist der Durchschnitt davon
