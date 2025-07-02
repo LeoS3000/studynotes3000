@@ -41,7 +41,7 @@ x_d
 \end{bmatrix}$$
 $$y_{(ideal)}=w^Tx$$
 $$y_{(real)}=y_{(ideal)}+\epsilon_{(noise)}$$
-- $\epsilon$ is everything, that can be explained 
+- $\epsilon$ is everything, that can not be explained 
 	- shaped by many iid variables
 	- central limit theorem
 - for a hypothesized set of coefficients $w$  we can calculate the amount of noise that must have been added:
@@ -97,7 +97,7 @@ $$= -\frac{1}{2\sigma^2} \| \mathbf{y} - \mathbf{Xw} \|^2 + \text{constant}$$
  - $\log\left(\frac{1}{(2\pi \sigma^2)^{N/2}}\right)$, does not depend on the parameter vector $w$ that we are trying to find.  It only contains constants ($N, \pi, \sigma$), so for the purpose of optimizing $w$, it's just a constant.
 ## Maximizing the likelihood leads to
 $$argmax_w-\frac{1}{2\sigma^2}||y-Xw||^2$$
-## dropping $s^2$ and $-$ leads to
+## dropping $\sigma^2$ and $-$ leads to
 $$argmin_w\frac{1}{2}||y-Xw||^2$$
 # squared loss
 $$\mathcal{l}_{sqrd}(x,y,f)=(y-f(x))^2$$

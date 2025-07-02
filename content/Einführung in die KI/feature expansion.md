@@ -4,7 +4,7 @@ a form of feature expansion, particularly in the context of making data [[linear
 
 ### Connection to Exercises
 
-*   **Definition and Purpose** [[Exercise 8, Task 1]]
+*   **Definition and Purpose** [[Exercise 8]]
     *  In , the concept of "feature mapping" $ϕ(x)$ is introduced to transform input data. The primary goal of such mapping is to determine if data that might not be linearly separable in its original space becomes **linearly separable in the new "feature space"**. If it does, a weight vector $θ$ can then be found to define a separating hyperplane in that higher-dimensional space.
 
 *   **Examples of Feature Mappings**
