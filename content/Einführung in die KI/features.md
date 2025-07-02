@@ -1,0 +1,3 @@
+- objects, like emails or images, can't be directly processed
+- first converted into a numerical format called a **feature vector**. 
+- collection of these vectors is then typically organized into a **design matrix**.

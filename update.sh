@@ -1,6 +1,6 @@
 #!/bin/bash
 SRC_FOLDER="/Users/leostrietzel/Vaults/Leo's vault/Einführung in die KI"
-DST_FOLDER="/Users/leostrietzel/Documents/Projekte/Codes/quartz/content"
+DST_FOLDER="/Users/leostrietzel/Vaults/quartz/content"
 
 if [ ! -d "$SRC_FOLDER" ]; then
   echo "Error: Source folder does not exist."

@@ -1,0 +1,3 @@
+- Decision trees divide the feature space into axis-parallel (hyper-)rectangles 
+- Each rectangular region is labeled with one label (or a probability distribution over labels) 
+- This leads to piece-wise linear decision hyperplanes

@@ -1,0 +1,2 @@
+- normalization of the functional Margin
+- 
