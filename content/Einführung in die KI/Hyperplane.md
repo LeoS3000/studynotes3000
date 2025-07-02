@@ -1,3 +1,0 @@
-- A plane, separation a Space into two parts
-- In an n-dimensional space, hyperplane is n-1 dimensional
-- 
